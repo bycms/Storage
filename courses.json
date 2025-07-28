@@ -1,0 +1,286 @@
+{
+  "className": "2920",
+  "classSecret": "bqprep0292",
+  "regularCourses": {
+    "Mon": [
+      {
+        "timeStarts": "0725",
+        "timeEnds": "0800",
+        "name": "升旗仪式"
+      },
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "物理"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "1035",
+        "name": "体育"
+      },
+      {
+        "timeStarts": "1045",
+        "timeEnds": "1125",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "英语"
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "化学"
+      },
+      {
+        "timeStarts": "1515",
+        "timeEnds": "1555",
+        "name": "政治"
+      },
+      {
+        "timeStarts": "1605",
+        "timeEnds": "1645",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "1655",
+        "timeEnds": "1735",
+        "name": "数学"
+      }
+    ],
+    "Tue": [
+      {
+        "timeStarts": "0725",
+        "timeEnds": "0745",
+        "name": "早读",
+        "remark": "语文"
+      },
+      {
+        "timeStarts": "0745",
+        "timeEnds": "0800",
+        "name": "出操"
+      },
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "物理"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "英语"
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "1035",
+        "name": "语文"
+      },
+      {
+        "timeStarts": "1045",
+        "timeEnds": "1125",
+        "name": "语文"
+      },
+      {
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "1515",
+        "timeEnds": "1555",
+        "name": "体育"
+      },
+      {
+        "timeStarts": "1605",
+        "timeEnds": "1645",
+        "name": "历史"
+      },
+      {
+        "timeStarts": "1655",
+        "timeEnds": "1735",
+        "name": "艺术"
+      }
+    ],
+    "Wed": [
+      {
+        "timeStarts": "0725",
+        "timeEnds": "0745",
+        "name": "早读",
+        "remark": "数学"
+      },
+      {
+        "timeStarts": "0745",
+        "timeEnds": "0800",
+        "name": "出操"
+      },
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "1035",
+        "name": "物理"
+      },
+      {
+        "timeStarts": "1045",
+        "timeEnds": "1125",
+        "name": "语文"
+      },
+      {
+        "timeStarts": "1135",
+        "timeEnds": "1215",
+        "name": "语文"
+      },
+      {
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "英语"
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "英语"
+      },
+      {
+        "timeStarts": "1515",
+        "timeEnds": "1555",
+        "name": "体育"
+      },
+      {
+        "timeStarts": "1605",
+        "timeEnds": "1645",
+        "name": "生物"
+      },
+      {
+        "timeStarts": "1655",
+        "timeEnds": "1735",
+        "name": "化学"
+      }
+    ],
+    "Thu": [
+      {
+        "timeStarts": "0725",
+        "timeEnds": "0745",
+        "name": "早读",
+        "remark": "英语"
+      },
+      {
+        "timeStarts": "0745",
+        "timeEnds": "0800",
+        "name": "出操"
+      },
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "英语"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "1035",
+        "name": "语文"
+      },
+      {
+        "timeStarts": "1045",
+        "timeEnds": "1125",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "化学"
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "物理"
+      },
+      {
+        "timeStarts": "1515",
+        "timeEnds": "1555",
+        "name": "体育"
+      }
+    ],
+    "Fri": [
+      {
+        "timeStarts": "0745",
+        "timeEnds": "0800",
+        "name": "出操"
+      },
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "数学"
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "1035",
+        "name": "政治"
+      },
+      {
+        "timeStarts": "1045",
+        "timeEnds": "1125",
+        "name": "信息技术"
+      },
+      {
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "体育"
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "班会"
+      }
+    ]
+  },
+  "regularEvents": {
+    "daily": [
+      {
+        "timeStarts": "0950",
+        "timeEnds": "0955",
+        "name": "眼保健操",
+      },
+      {
+        "timeStarts": "1510",
+        "timeEnds": "1515",
+        "name": "眼保健操",
+      },
+      {
+        "timeStarts": "1215",
+        "timeEnds": "1330",
+        "name": "午休",
+      }
+    ],
+    "once": [
+      
+    ]
+  }
+}
