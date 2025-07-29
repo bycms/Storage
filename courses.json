@@ -11,7 +11,8 @@
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "物理"
+        "name": "物理",
+        "remark": "左佳奇"
       },
       {
         "timeStarts": "0900",
@@ -31,17 +32,20 @@
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "英语"
+        "name": "英语",
+        "remark": "张瑜"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "化学"
+        "name": "化学",
+        "remark": "陈红岩"
       },
       {
         "timeStarts": "1515",
         "timeEnds": "1555",
-        "name": "政治"
+        "name": "政治",
+        "remark": "陈悦"
       },
       {
         "timeStarts": "1605",
@@ -59,7 +63,7 @@
         "timeStarts": "0725",
         "timeEnds": "0745",
         "name": "早读",
-        "remark": "语文"
+        "remark": "语文 - 方勇"
       },
       {
         "timeStarts": "0745",
@@ -69,22 +73,26 @@
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "物理"
+        "name": "物理",
+        "remark": "左佳奇"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
-        "name": "英语"
+        "name": "英语",
+        "remark": "张瑜"
       },
       {
         "timeStarts": "0955",
         "timeEnds": "1035",
-        "name": "语文"
+        "name": "语文",
+        "remark": "方勇"
       },
       {
         "timeStarts": "1045",
         "timeEnds": "1125",
-        "name": "语文"
+        "name": "语文",
+        "remark": "方勇"
       },
       {
         "timeStarts": "1330",
@@ -104,12 +112,14 @@
       {
         "timeStarts": "1605",
         "timeEnds": "1645",
-        "name": "历史"
+        "name": "历史",
+        "remark": "徐晗"
       },
       {
         "timeStarts": "1655",
         "timeEnds": "1735",
-        "name": "艺术"
+        "name": "艺术",
+        "remark": "楼新宇"
       }
     ],
     "Wed": [
@@ -137,27 +147,32 @@
       {
         "timeStarts": "0955",
         "timeEnds": "1035",
-        "name": "物理"
+        "name": "物理",
+        "remark": "左佳奇"
       },
       {
         "timeStarts": "1045",
         "timeEnds": "1125",
-        "name": "语文"
+        "name": "语文",
+        "remark": "方勇"
       },
       {
         "timeStarts": "1135",
         "timeEnds": "1215",
-        "name": "语文"
+        "name": "语文",
+        "remark": "方勇"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "英语"
+        "name": "英语",
+        "remark": "张瑜"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "英语"
+        "name": "英语",
+        "remark": "张瑜"
       },
       {
         "timeStarts": "1515",
@@ -172,7 +187,8 @@
       {
         "timeStarts": "1655",
         "timeEnds": "1735",
-        "name": "化学"
+        "name": "化学",
+        "remark": "陈红岩"
       }
     ],
     "Thu": [
@@ -180,7 +196,7 @@
         "timeStarts": "0725",
         "timeEnds": "0745",
         "name": "早读",
-        "remark": "英语"
+        "remark": "英语 - 张瑜"
       },
       {
         "timeStarts": "0745",
@@ -190,7 +206,8 @@
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "英语"
+        "name": "英语",
+        "remark": "张瑜"
       },
       {
         "timeStarts": "0900",
@@ -200,7 +217,8 @@
       {
         "timeStarts": "0955",
         "timeEnds": "1035",
-        "name": "语文"
+        "name": "语文",
+        "remark": "方勇"
       },
       {
         "timeStarts": "1045",
@@ -210,12 +228,14 @@
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "化学"
+        "name": "化学",
+        "remark": "陈红岩"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "物理"
+        "name": "物理",
+        "remark": "左佳奇"
       },
       {
         "timeStarts": "1515",
@@ -242,12 +262,14 @@
       {
         "timeStarts": "0955",
         "timeEnds": "1035",
-        "name": "政治"
+        "name": "政治",
+        "remark": "陈悦"
       },
       {
         "timeStarts": "1045",
         "timeEnds": "1125",
-        "name": "信息技术"
+        "name": "信息技术",
+        "remark": "陈雪兵"
       },
       {
         "timeStarts": "1330",
@@ -257,7 +279,8 @@
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "班会"
+        "name": "班会",
+        "remark": "陈辉"
       }
     ]
   },
@@ -266,21 +289,19 @@
       {
         "timeStarts": "0950",
         "timeEnds": "0955",
-        "name": "眼保健操",
+        "name": "眼保健操"
       },
       {
         "timeStarts": "1510",
         "timeEnds": "1515",
-        "name": "眼保健操",
+        "name": "眼保健操"
       },
       {
         "timeStarts": "1215",
         "timeEnds": "1330",
-        "name": "午休",
+        "name": "午休"
       }
     ],
-    "once": [
-      
-    ]
+    "once": []
   }
 }
