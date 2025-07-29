@@ -300,6 +300,11 @@
         "timeStarts": "1215",
         "timeEnds": "1330",
         "name": "午休"
+      },
+      {
+        "timeStarts": "1635",
+        "timeEnds": "1638",
+        "name": "眼保健操"
       }
     ],
     "once": []
