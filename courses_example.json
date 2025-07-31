@@ -285,31 +285,94 @@
     ]
   },
   "regularEvents": {
-    "daily": [
-      {
-        "timeStarts": "0950",
-        "timeEnds": "0955",
-        "name": "眼保健操"
-      },
-      {
-        "timeStarts": "1510",
-        "timeEnds": "1515",
-        "name": "眼保健操"
-      },
-      {
-        "timeStarts": "1215",
-        "timeEnds": "1330",
-        "name": "午休"
-      }
-    ],
-    "once": [
-      {
-        "date": "20250731",
-        "timeStarts": "1130",
-        "timeEnds": "1135",
-        "name": "Unknown event",
-        "remark": "For testing"
-      }
-    ]
-  }
+  "daily": [
+    {
+      "timeStarts": "0950",
+      "timeEnds": "0955",
+      "name": "眼保健操"
+    },
+    {
+      "timeStarts": "1510",
+      "timeEnds": "1515",
+      "name": "眼保健操"
+    },
+    {
+      "timeStarts": "1215",
+      "timeEnds": "1330",
+      "name": "午休"
+    }
+  ],
+  "once": [
+    {
+      "date": "20250731",
+      "timeStarts": "1130",
+      "timeEnds": "1135",
+      "name": "Unknown event",
+      "remark": "For testing"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2050",
+      "timeEnds": "2052",
+      "name": "眼保健操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2053",
+      "timeEnds": "2055",
+      "name": "早操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2056",
+      "timeEnds": "2058",
+      "name": "测试课程",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2059",
+      "timeEnds": "2101",
+      "name": "眼保健操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2102",
+      "timeEnds": "2104",
+      "name": "早操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2105",
+      "timeEnds": "2107",
+      "name": "测试课程",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2108",
+      "timeEnds": "2110",
+      "name": "眼保健操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2111",
+      "timeEnds": "2113",
+      "name": "早操",
+      "remark": "测试用"
+    },
+    {
+      "date": "20250731",
+      "timeStarts": "2114",
+      "timeEnds": "2115",
+      "name": "测试课程",
+      "remark": "测试用"
+    }
+  ]
+}
 }
