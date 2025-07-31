@@ -312,29 +312,15 @@
     },
     {
       "date": "20250731",
-      "timeStarts": "2059",
-      "timeEnds": "2101",
-      "name": "眼保健操",
-      "remark": "测试用"
-    },
-    {
-      "date": "20250731",
       "timeStarts": "2102",
       "timeEnds": "2104",
-      "name": "出操",
+      "name": "眼保健操",
       "remark": "测试用"
     },
     {
       "date": "20250731",
       "timeStarts": "2105",
-      "timeEnds": "2106",
-      "name": "眼保健操",
-      "remark": "测试用"
-    },
-    {
-      "date": "20250731",
-      "timeStarts": "2107",
-      "timeEnds": "2109",
+      "timeEnds": "2107",
       "name": "出操",
       "remark": "测试用"
     },
