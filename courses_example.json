@@ -305,22 +305,22 @@
   "once": [
     {
       "date": "20250818",
-      "timeStarts": "1817",
-      "timeEnds": "1818",
+      "timeStarts": "2105",
+      "timeEnds": "2106",
       "name": "Unknown event",
       "remark": "For testing"
     },
     {
       "date": "20250818",
-      "timeStarts": "1820",
-      "timeEnds": "1821",
+      "timeStarts": "2108",
+      "timeEnds": "2109",
       "name": "眼保健操",
       "remark": "测试用"
     },
     {
       "date": "20250818",
-      "timeStarts": "1823",
-      "timeEnds": "1824",
+      "timeStarts": "2111",
+      "timeEnds": "2112",
       "name": "出操",
       "remark": "测试用"
     },
