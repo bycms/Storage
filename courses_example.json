@@ -304,23 +304,23 @@
   ],
   "once": [
     {
-      "date": "20250813",
-      "timeStarts": "2213",
-      "timeEnds": "2214",
+      "date": "20250818",
+      "timeStarts": "1450",
+      "timeEnds": "1451",
       "name": "Unknown event",
       "remark": "For testing"
     },
     {
-      "date": "20250813",
-      "timeStarts": "2216",
-      "timeEnds": "2217",
+      "date": "20250818",
+      "timeStarts": "1453",
+      "timeEnds": "1454",
       "name": "眼保健操",
       "remark": "测试用"
     },
     {
-      "date": "20250813",
-      "timeStarts": "2219",
-      "timeEnds": "2220",
+      "date": "20250818",
+      "timeStarts": "1456",
+      "timeEnds": "1457",
       "name": "出操",
       "remark": "测试用"
     },
