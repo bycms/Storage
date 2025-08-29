@@ -1,280 +1,249 @@
 {
-  "className": "2920",
+  "className": "初三1班",
   "classSecret": "bqprep0292",
   "regularCourses": {
     "Mon": [
       {
         "timeStarts": "0725",
-        "timeEnds": "0800",
-        "name": "升旗仪式"
+        "timeEnds": "0745",
+        "name": "语文早读",
+        "remark": "陈辉"
       },
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "物理",
-        "remark": "左佳奇"
+        "name": "语文",
+        "remark": "陈辉"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
-        "name": "数学"
+        "name": "英语",
+        "remark": "耿鋆"
       },
       {
-        "timeStarts": "0955",
-        "timeEnds": "1035",
-        "name": "体育"
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "数学",
+        "remark": "林天齐"
       },
       {
-        "timeStarts": "1045",
-        "timeEnds": "1125",
-        "name": "数学"
+        "timeStarts": "1240",
+        "timeEnds": "1320",
+        "name": "物理",
+        "remark": "万谦 许方杰 左佳奇"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "英语",
-        "remark": "张瑜"
+        "name": "物理",
+        "remark": "万谦 许方杰 左佳奇"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "化学",
-        "remark": "陈红岩"
+        "name": "历史",
+        "remark": "栾思源"
       },
       {
-        "timeStarts": "1515",
-        "timeEnds": "1555",
+        "timeStarts": "1420",
+        "timeEnds": "1500",
         "name": "政治",
         "remark": "陈悦"
       },
       {
-        "timeStarts": "1605",
-        "timeEnds": "1645",
-        "name": "数学"
+        "timeStarts": "1520",
+        "timeEnds": "1600",
+        "name": "地理",
+        "remark": "徐寅宏"
       },
       {
-        "timeStarts": "1655",
-        "timeEnds": "1735",
-        "name": "数学"
+        "timeStarts": "1520",
+        "timeEnds": "1600",
+        "name": "生物",
+        "remark": "崔欣"
+      },
+      {
+        "timeStarts": "1610",
+        "timeEnds": "1650",
+        "name": "思政/心理",
+        "remark": "罗吾民"
       }
     ],
     "Tue": [
       {
         "timeStarts": "0725",
         "timeEnds": "0745",
-        "name": "早读",
-        "remark": "语文 - 方勇"
-      },
-      {
-        "timeStarts": "0745",
-        "timeEnds": "0800",
-        "name": "出操"
+        "name": "数学早读",
+        "remark": "林天齐"
       },
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "物理",
-        "remark": "左佳奇"
+        "name": "数学",
+        "remark": "林天齐"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
         "name": "英语",
-        "remark": "张瑜"
+        "remark": "耿鋆"
       },
       {
-        "timeStarts": "0955",
-        "timeEnds": "1035",
-        "name": "语文",
-        "remark": "方勇"
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "信息",
+        "remark": "陈雪兵"
       },
       {
-        "timeStarts": "1045",
-        "timeEnds": "1125",
+        "timeStarts": "1140",
+        "timeEnds": "1220",
         "name": "语文",
-        "remark": "方勇"
+        "remark": "陈辉"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "数学"
+        "name": "化学",
+        "remark": "陈红岩 张苧丹 王琨皓"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "数学"
-      },
-      {
-        "timeStarts": "1515",
-        "timeEnds": "1555",
-        "name": "体育"
-      },
-      {
-        "timeStarts": "1605",
-        "timeEnds": "1645",
-        "name": "历史",
-        "remark": "徐晗"
-      },
-      {
-        "timeStarts": "1655",
-        "timeEnds": "1735",
-        "name": "艺术",
-        "remark": "楼新宇"
+        "name": "化学",
+        "remark": "陈红岩 张苧丹 王琨皓"
       }
     ],
     "Wed": [
       {
         "timeStarts": "0725",
         "timeEnds": "0745",
-        "name": "早读",
-        "remark": "数学"
-      },
-      {
-        "timeStarts": "0745",
-        "timeEnds": "0800",
-        "name": "出操"
+        "name": "英语早读",
+        "remark": "耿鋆"
       },
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "数学"
+        "name": "英语",
+        "remark": "耿鋆"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
-        "name": "数学"
+        "name": "数学",
+        "remark": "林天齐"
       },
       {
-        "timeStarts": "0955",
-        "timeEnds": "1035",
-        "name": "物理",
-        "remark": "左佳奇"
-      },
-      {
-        "timeStarts": "1045",
-        "timeEnds": "1125",
+        "timeStarts": "1000",
+        "timeEnds": "1040",
         "name": "语文",
-        "remark": "方勇"
+        "remark": "陈辉"
       },
       {
-        "timeStarts": "1135",
-        "timeEnds": "1215",
-        "name": "语文",
-        "remark": "方勇"
+        "timeStarts": "1240",
+        "timeEnds": "1320",
+        "name": "物理强基",
+        "remark": "万谦 许方杰 左佳奇"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "英语",
-        "remark": "张瑜"
-      },
-      {
-        "timeStarts": "1420",
-        "timeEnds": "1500",
-        "name": "英语",
-        "remark": "张瑜"
-      },
-      {
-        "timeStarts": "1515",
-        "timeEnds": "1555",
-        "name": "体育"
-      },
-      {
-        "timeStarts": "1605",
-        "timeEnds": "1645",
-        "name": "生物"
-      },
-      {
-        "timeStarts": "1655",
-        "timeEnds": "1735",
-        "name": "化学",
-        "remark": "陈红岩"
+        "name": "物理强基",
+        "remark": "万谦 许方杰 左佳奇"
       }
     ],
     "Thu": [
       {
         "timeStarts": "0725",
         "timeEnds": "0745",
-        "name": "早读",
-        "remark": "英语 - 张瑜"
-      },
-      {
-        "timeStarts": "0745",
-        "timeEnds": "0800",
-        "name": "出操"
+        "name": "语文早读",
+        "remark": "陈辉"
       },
       {
         "timeStarts": "0810",
         "timeEnds": "0850",
-        "name": "英语",
-        "remark": "张瑜"
+        "name": "数学",
+        "remark": "林天齐"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
-        "name": "数学"
+        "name": "英语",
+        "remark": "耿鋆"
       },
       {
-        "timeStarts": "0955",
-        "timeEnds": "1035",
+        "timeStarts": "1000",
+        "timeEnds": "1040",
         "name": "语文",
-        "remark": "方勇"
+        "remark": "陈辉"
       },
       {
-        "timeStarts": "1045",
-        "timeEnds": "1125",
-        "name": "数学"
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "语文",
+        "remark": "陈辉"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "化学",
-        "remark": "陈红岩"
+        "name": "物理",
+        "remark": "万谦 许方杰 左佳奇"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "物理",
-        "remark": "左佳奇"
+        "name": "化学",
+        "remark": "陈红岩 张苧丹 王琨皓"
       },
       {
-        "timeStarts": "1515",
-        "timeEnds": "1555",
-        "name": "体育"
-      }
-    ],
-    "Fri": [
-      {
-        "timeStarts": "0745",
-        "timeEnds": "0800",
-        "name": "出操"
+        "timeStarts": "1520",
+        "timeEnds": "1600",
+        "name": "历史",
+        "remark": "栾思源"
       },
       {
-        "timeStarts": "0810",
-        "timeEnds": "0850",
-        "name": "数学"
-      },
-      {
-        "timeStarts": "0900",
-        "timeEnds": "0940",
-        "name": "数学"
-      },
-      {
-        "timeStarts": "0955",
-        "timeEnds": "1035",
+        "timeStarts": "1520",
+        "timeEnds": "1600",
         "name": "政治",
         "remark": "陈悦"
       },
       {
-        "timeStarts": "1045",
-        "timeEnds": "1125",
-        "name": "信息技术",
-        "remark": "陈雪兵"
+        "timeStarts": "1610",
+        "timeEnds": "1650",
+        "name": "地理",
+        "remark": "徐寅宏"
+      },
+      {
+        "timeStarts": "1610",
+        "timeEnds": "1650",
+        "name": "生物",
+        "remark": "崔欣"
+      }
+    ],
+    "Fri": [
+      {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "化学强基",
+        "remark": "陈红岩 张苧丹 王琨皓"
+      },
+      {
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "化学强基",
+        "remark": "陈红岩 张苧丹 王琨皓"
+      },
+      {
+        "timeStarts": "1000",
+        "timeEnds": "1040",
+        "name": "英语",
+        "remark": "耿鋆"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
-        "name": "体育"
+        "name": "数学",
+        "remark": "林天齐"
       },
       {
         "timeStarts": "1420",
@@ -285,45 +254,45 @@
     ]
   },
   "regularEvents": {
-  "daily": [
-    {
-      "timeStarts": "0950",
-      "timeEnds": "0955",
-      "name": "眼保健操"
-    },
-    {
-      "timeStarts": "1510",
-      "timeEnds": "1515",
-      "name": "眼保健操"
-    },
-    {
-      "timeStarts": "1215",
-      "timeEnds": "1330",
-      "name": "午休"
-    }
-  ],
-  "once": [
-    {
-      "date": "20250818",
-      "timeStarts": "2105",
-      "timeEnds": "2106",
-      "name": "Unknown event",
-      "remark": "For testing"
-    },
-    {
-      "date": "20250818",
-      "timeStarts": "2108",
-      "timeEnds": "2109",
-      "name": "眼保健操",
-      "remark": "测试用"
-    },
-    {
-      "date": "20250818",
-      "timeStarts": "2111",
-      "timeEnds": "2112",
-      "name": "出操",
-      "remark": "测试用"
-    },
-  ]
-}
+    "daily": [
+      {
+        "timeStarts": "0950",
+        "timeEnds": "0955",
+        "name": "眼保健操"
+      },
+      {
+        "timeStarts": "1510",
+        "timeEnds": "1515",
+        "name": "眼保健操"
+      },
+      {
+        "timeStarts": "1215",
+        "timeEnds": "1330",
+        "name": "午休"
+      }
+    ],
+    "once": [
+      {
+        "date": "20250818",
+        "timeStarts": "2105",
+        "timeEnds": "2106",
+        "name": "Unknown event",
+        "remark": "For testing"
+      },
+      {
+        "date": "20250818",
+        "timeStarts": "2108",
+        "timeEnds": "2109",
+        "name": "眼保健操",
+        "remark": "测试用"
+      },
+      {
+        "date": "20250818",
+        "timeStarts": "2111",
+        "timeEnds": "2112",
+        "name": "出操",
+        "remark": "测试用"
+      }
+    ]
+  }
 }
