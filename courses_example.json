@@ -281,17 +281,24 @@
       },
       {
         "date": "20250818",
-        "timeStarts": "2108",
-        "timeEnds": "2109",
-        "name": "眼保健操",
-        "remark": "测试用"
-      },
-      {
-        "date": "20250818",
         "timeStarts": "2111",
         "timeEnds": "2112",
         "name": "出操",
         "remark": "测试用"
+      },
+      {
+        "date": "20250830",
+        "timeStarts": "1430",
+        "timeEnds": "1600",
+        "name": "返校0",
+        "remark": "交作业+领书"
+      },
+      {
+        "date": "20250831",
+        "timeStarts": "1430",
+        "timeEnds": "1600",
+        "name": "返校",
+        "remark": "交作业+领书"
       }
     ]
   }
