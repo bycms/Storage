@@ -22,6 +22,12 @@
         "remark": "耿鋆"
       },
       {
+        "timeStarts": "1000",
+        "timeEnds": "1040",
+        "name": "体育",
+        "remark": ""
+      },
+      {
         "timeStarts": "1050",
         "timeEnds": "1130",
         "name": "数学",
@@ -42,12 +48,6 @@
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
-        "name": "历史",
-        "remark": "栾思源"
-      },
-      {
-        "timeStarts": "1420",
-        "timeEnds": "1500",
         "name": "政治",
         "remark": "陈悦"
       },
@@ -56,12 +56,6 @@
         "timeEnds": "1600",
         "name": "地理",
         "remark": "徐寅宏"
-      },
-      {
-        "timeStarts": "1520",
-        "timeEnds": "1600",
-        "name": "生物",
-        "remark": "崔欣"
       },
       {
         "timeStarts": "1610",
@@ -90,6 +84,12 @@
         "remark": "耿鋆"
       },
       {
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "体育",
+        "remark": ""
+      },
+      {
         "timeStarts": "1050",
         "timeEnds": "1130",
         "name": "信息",
@@ -112,6 +112,12 @@
         "timeEnds": "1500",
         "name": "化学",
         "remark": "陈红岩 张苧丹 王琨皓"
+      },
+      {
+        "timeStarts": "1520",
+        "timeEnds": "1650",
+        "name": "学院专项",
+        "remark": ""
       }
     ],
     "Wed": [
@@ -140,6 +146,12 @@
         "remark": "陈辉"
       },
       {
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "艺术",
+        "remark": ""
+      },
+      {
         "timeStarts": "1240",
         "timeEnds": "1320",
         "name": "物理强基",
@@ -150,7 +162,19 @@
         "timeEnds": "1410",
         "name": "物理强基",
         "remark": "万谦 许方杰 左佳奇"
-      }
+      },
+      {
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "体育",
+        "remark": ""
+      },
+      {
+        "timeStarts": "1520",
+        "timeEnds": "1650",
+        "name": "竞赛",
+        "remark": ""
+      },
     ],
     "Thu": [
       {
@@ -198,12 +222,6 @@
       {
         "timeStarts": "1520",
         "timeEnds": "1600",
-        "name": "历史",
-        "remark": "栾思源"
-      },
-      {
-        "timeStarts": "1520",
-        "timeEnds": "1600",
         "name": "政治",
         "remark": "陈悦"
       },
@@ -212,12 +230,6 @@
         "timeEnds": "1650",
         "name": "地理",
         "remark": "徐寅宏"
-      },
-      {
-        "timeStarts": "1610",
-        "timeEnds": "1650",
-        "name": "生物",
-        "remark": "崔欣"
       }
     ],
     "Fri": [
@@ -240,6 +252,18 @@
         "remark": "耿鋆"
       },
       {
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "通用技术",
+        "remark": ""
+      },
+      {
+        "timeStarts": "1240",
+        "timeEnds": "1320",
+        "name": "体育",
+        "remark": ""
+      },
+      {
         "timeStarts": "1330",
         "timeEnds": "1410",
         "name": "数学",
@@ -256,20 +280,16 @@
   "regularEvents": {
     "daily": [
       {
-        "timeStarts": "0950",
-        "timeEnds": "0955",
-        "name": "眼保健操"
-      },
-      {
-        "timeStarts": "1510",
-        "timeEnds": "1515",
-        "name": "眼保健操"
-      },
-      {
         "timeStarts": "1215",
         "timeEnds": "1330",
         "name": "午休"
-      }
+      },
+      {
+        "timeStarts": "0745",
+        "timeEnds": "0800",
+        "name": "出操",
+        "remark": "周一为升旗仪式"
+      },
     ],
     "once": [
       {
@@ -278,20 +298,6 @@
         "timeEnds": "2106",
         "name": "Unknown event",
         "remark": "For testing"
-      },
-      {
-        "date": "20250818",
-        "timeStarts": "2111",
-        "timeEnds": "2112",
-        "name": "出操",
-        "remark": "测试用"
-      },
-      {
-        "date": "20250830",
-        "timeStarts": "1430",
-        "timeEnds": "1600",
-        "name": "返校0",
-        "remark": "交作业+领书"
       },
       {
         "date": "20250831",
