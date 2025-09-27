@@ -61,7 +61,7 @@
         "timeStarts": "1610",
         "timeEnds": "1650",
         "name": "思政/心理",
-        "remark": "罗吾民"
+        "remark": "黄天婧"
       }
     ],
     "Tue": [
@@ -87,7 +87,7 @@
         "timeStarts": "0810",
         "timeEnds": "0850",
         "name": "体育",
-        "remark": ""
+        "remark": "杨艳"
       },
       {
         "timeStarts": "1050",
@@ -105,13 +105,13 @@
         "timeStarts": "1330",
         "timeEnds": "1410",
         "name": "化学",
-        "remark": "陈红岩 张苧丹 王琨皓"
+        "remark": "陈红岩 李贝贝 王琨皓"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
         "name": "化学",
-        "remark": "陈红岩 张苧丹 王琨皓"
+        "remark": "陈红岩 李贝贝 王琨皓"
       },
       {
         "timeStarts": "1520",
@@ -149,25 +149,25 @@
         "timeStarts": "1050",
         "timeEnds": "1130",
         "name": "艺术",
-        "remark": ""
+        "remark": "张忠华 袁胜雄 王婧 楼新宇"
       },
       {
         "timeStarts": "1240",
         "timeEnds": "1320",
         "name": "物理强基",
-        "remark": "万谦 许方杰 左佳奇"
+        "remark": "万谦 左佳奇"
       },
       {
         "timeStarts": "1330",
         "timeEnds": "1410",
         "name": "物理强基",
-        "remark": "万谦 许方杰 左佳奇"
+        "remark": "万谦 左佳奇"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
         "name": "体育",
-        "remark": ""
+        "remark": "杨艳"
       },
       {
         "timeStarts": "1520",
@@ -208,16 +208,22 @@
         "remark": "陈辉"
       },
       {
+        "timeStarts": "1140",
+        "timeEnds": "1220",
+        "name": "体育",
+        "remark": "杨艳"
+      },
+      {
         "timeStarts": "1330",
         "timeEnds": "1410",
         "name": "物理",
-        "remark": "万谦 许方杰 左佳奇"
+        "remark": "万谦 左佳奇"
       },
       {
         "timeStarts": "1420",
         "timeEnds": "1500",
         "name": "化学",
-        "remark": "陈红岩 张苧丹 王琨皓"
+        "remark": "陈红岩 李贝贝 王琨皓"
       },
       {
         "timeStarts": "1520",
@@ -237,13 +243,13 @@
         "timeStarts": "0810",
         "timeEnds": "0850",
         "name": "化学强基",
-        "remark": "陈红岩 张苧丹 王琨皓"
+        "remark": "李贝贝 王琨皓"
       },
       {
         "timeStarts": "0900",
         "timeEnds": "0940",
         "name": "化学强基",
-        "remark": "陈红岩 张苧丹 王琨皓"
+        "remark": "李贝贝 王琨皓"
       },
       {
         "timeStarts": "1000",
@@ -258,10 +264,10 @@
         "remark": ""
       },
       {
-        "timeStarts": "1240",
-        "timeEnds": "1320",
+        "timeStarts": "1140",
+        "timeEnds": "1220",
         "name": "体育",
-        "remark": ""
+        "remark": "杨艳"
       },
       {
         "timeStarts": "1330",
@@ -289,22 +295,77 @@
         "timeEnds": "0800",
         "name": "出操",
         "remark": "周一为升旗仪式"
+      },
+      {
+        "timeStarts": "1830",
+        "timeEnds": "1940",
+        "name": "晚自习",
+        "remark": ""
       }
     ],
     "once": [
       {
-        "date": "20250818",
-        "timeStarts": "2105",
-        "timeEnds": "2106",
-        "name": "Unknown event",
-        "remark": "For testing"
+        "date": "20250928",
+        "timeStarts": "0725",
+        "timeEnds": "0745",
+        "name": "数学早读",
+        "remark": "林天齐"
       },
       {
-        "date": "20250831",
-        "timeStarts": "1430",
-        "timeEnds": "1600",
-        "name": "返校",
-        "remark": "交作业+领书"
+        "date": "20250928",
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "数学",
+        "remark": "林天齐"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "0900",
+        "timeEnds": "0940",
+        "name": "英语",
+        "remark": "耿鋆"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "0810",
+        "timeEnds": "0850",
+        "name": "体育",
+        "remark": "杨艳"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "1050",
+        "timeEnds": "1130",
+        "name": "信息",
+        "remark": "陈雪兵"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "1140",
+        "timeEnds": "1220",
+        "name": "语文",
+        "remark": "陈辉"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "1330",
+        "timeEnds": "1410",
+        "name": "化学",
+        "remark": "陈红岩 李贝贝 王琨皓"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "1420",
+        "timeEnds": "1500",
+        "name": "化学",
+        "remark": "陈红岩 李贝贝 王琨皓"
+      },
+      {
+        "date": "20250928",
+        "timeStarts": "1520",
+        "timeEnds": "1650",
+        "name": "学院专项",
+        "remark": ""
       }
     ]
   }
