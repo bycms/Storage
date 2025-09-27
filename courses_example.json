@@ -286,11 +286,6 @@
   "regularEvents": {
     "daily": [
       {
-        "timeStarts": "1215",
-        "timeEnds": "1330",
-        "name": "午休"
-      },
-      {
         "timeStarts": "0745",
         "timeEnds": "0800",
         "name": "出操",
@@ -300,6 +295,18 @@
         "timeStarts": "1830",
         "timeEnds": "1940",
         "name": "晚自习",
+        "remark": ""
+      },
+      {
+        "timeStarts": "0955",
+        "timeEnds": "0959",
+        "name": "眼保健操",
+        "remark": ""
+      },
+      {
+        "timeStarts": "1515",
+        "timeEnds": "1519",
+        "name": "眼保健操",
         "remark": ""
       }
     ],
@@ -376,23 +383,23 @@
       },
       {
         "date": "20250927",
-        "timeStarts": "0100",
-        "timeEnds": "0200",
-        "name": "a",
+        "timeStarts": "2001",
+        "timeEnds": "2100",
+        "name": "i",
         "remark": ""
       },
       {
         "date": "20250927",
-        "timeStarts": "0100",
-        "timeEnds": "0200",
-        "name": "a",
+        "timeStarts": "1001",
+        "timeEnds": "1100",
+        "name": "j",
         "remark": ""
       },
       {
         "date": "20250927",
-        "timeStarts": "0100",
-        "timeEnds": "0200",
-        "name": "a",
+        "timeStarts": "1101",
+        "timeEnds": "1200",
+        "name": "k",
         "remark": ""
       },
       {
@@ -442,6 +449,13 @@
         "timeStarts": "0801",
         "timeEnds": "0900",
         "name": "h",
+        "remark": ""
+      },
+      {
+        "date": "20250927",
+        "timeStarts": "1600",
+        "timeEnds": "1700",
+        "name": "l",
         "remark": ""
       }
     ]
