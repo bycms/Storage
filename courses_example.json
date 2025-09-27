@@ -376,86 +376,9 @@
       },
       {
         "date": "20250927",
-        "timeStarts": "0100",
-        "timeEnds": "0200",
-        "name": "a",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "2001",
-        "timeEnds": "2100",
-        "name": "i",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "1001",
-        "timeEnds": "1100",
-        "name": "j",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "1101",
-        "timeEnds": "1200",
-        "name": "k",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0201",
-        "timeEnds": "0300",
-        "name": "b",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0301",
-        "timeEnds": "0400",
-        "name": "c",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0401",
-        "timeEnds": "0500",
-        "name": "d",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0501",
-        "timeEnds": "0600",
-        "name": "e",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0601",
-        "timeEnds": "0700",
-        "name": "f",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0701",
-        "timeEnds": "0800",
-        "name": "g",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "0801",
-        "timeEnds": "0900",
-        "name": "h",
-        "remark": ""
-      },
-      {
-        "date": "20250927",
-        "timeStarts": "1600",
-        "timeEnds": "1700",
-        "name": "l",
+        "timeStarts": "2132",
+        "timeEnds": "2133",
+        "name": "晚自习",
         "remark": ""
       }
     ]
